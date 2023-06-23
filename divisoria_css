@@ -78,10 +78,6 @@
 }
 #fieldset{
     width: 55%;
-    background-color: rgb(243, 210, 250);
-}
-#body{
-    background-color: rgb(229, 184, 243);
 }
 #asterisco{
     color: rgb(223, 219, 0);

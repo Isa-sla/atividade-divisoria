@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title> Exercício divisória </title>
+        <link rel="stylesheet" media="all" href="exercício.css"/>
+    </head>
+    <body>
+        <p align="center">
+            <strong>
+                *** DADOS PESSOAIS ***
+            </strong>
+        </p>
+        <form >
+            <fieldset>
+            <label for="nome"> Nome: </label>
+            <input type="text" name="nome" id="nome" />
+            <br/>
+            <label for="endereço"> Endereço: </label>
+            <input type="text" name="endereço" id="endereço"/>
+            <br/>
+            <label for="telefone"> Telefone: </label>
+            <input type="text" name="telefone" id="telefone" />
+            <label for="email"> E-mail: </label>
+            <input type="text" name="email" id="email"/>
+            <br/>
+            <label for="escola"> Escola/Faculdade: </label>
+            <input type="text" name="escola" id="escola"/>
+            <br/>
+            <label for="curso"> Curso: </label>
+            <input type="text" name="curso" id="curso"/>
+            <label for="turma"> Turma: </label>
+            <input type="text" name="turma" id="turma"/>
+            <br/>
+            <label for="chamada"> N° de Chamada: </label>
+            <input type="text" name="chamada" id="chamada"/>
+            <label for="matrícula"> N° de Matrícula: </label>
+            <input type="text" name="matrícula" id="matrícula"/>
+            <br/>
+            <label for="redes"> Redes Sociais: </label>
+            <input type="text" name="redes" id="redes"/>
+            </fieldset>
+            <p align="center">
+                <strong >
+                *** HORÁRIO DE AULAS ***
+                  </strong>
+            </p>
+            <table>
+                <tr> 
+                    <th id="h">
+                        Horário
+                    </th>
+                    <th id="d">
+                        Segunda
+                    </th>
+                    <th id="d">
+                        Terça 
+                    </th>
+                    <th id="d">
+                        Quarta
+                    </th>
+                    <th id="d">
+                        Quinta
+                    </th>
+                    <th id="d">
+                        Sexta
+                    </th>
+                    <th id="d">
+                        Sábado
+                    </th>
+                    <th id="d">
+                        Domingo
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="horario" id="horario"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                    <td>
+                        <input type="text" name="dia" id="dia"/>
+                    </td>
+                </tr>
+            </table>
+            <p align="center">
+                <strong >
+                 *** PRIORIDADES ***
+                </strong>
+            </p>
+                <input type="textarea" name="prioridades" id="prioridades"/>
+        </form>
+    </body>
+</html>

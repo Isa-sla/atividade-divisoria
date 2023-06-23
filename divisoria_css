@@ -1,0 +1,82 @@
+#nome{
+    width: 93.5%;
+}
+#endereço{
+    width: 91.2%;
+    margin-top: 5px;
+}
+#telefone{
+    width: 42.5%;
+    margin-top: 5px;
+}
+#email{
+    width: 42.2%;
+    margin-top: 5px;
+}
+#escola{
+    width: 85.35%;
+    margin-top: 5px;
+}
+#curso{
+    width: 42.5%;
+    margin-top: 5px;
+}
+#turma{
+    width: 44.4%;
+    margin-top: 5px;
+}
+#chamada{
+    width: 36%;
+    margin-top: 5px;
+}
+#matrícula{
+    width: 37.2%;
+    margin-top: px;
+}
+#redes{
+    width: 88%;
+    margin-top: px;
+}
+
+#h{
+    background-color: rgb(26, 26, 26);
+    color: white;
+    border-bottom: 0.5px solid;
+    border-left: 0.5px solid ;
+    border-right: 0.5px solid ;
+    border-top: 0.5px solid ;
+    border-radius:10px;
+    width: 5%;
+    
+} 
+#d{
+    background-color: #ffd7b1 ;
+    border-bottom: 0.5px solid;
+    border-left: 0.5px solid ;
+    border-right: 0.5px solid ;
+    border-top: 0.5px solid ;
+    border-radius:10px;
+    width: 5%;
+}
+#horario{
+    border-radius:10px;
+    background-color: rgb(172, 170, 170);
+    width: 95%;
+}
+
+#dia{
+    border-radius:10px;
+    width: 95%;
+}
+#prioridades{
+    width: 95%;
+    height: 200px;
+    margin-left: 20px;
+}
+p{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    width: 30%;
+    margin-left: 350px;
+}

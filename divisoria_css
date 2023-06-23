@@ -1,41 +1,41 @@
 #nome{
-    width: 93.5%;
+    width: 90%;
 }
 #endereço{
-    width: 91.2%;
+    width: 86%;
     margin-top: 5px;
 }
 #telefone{
-    width: 42.5%;
+    width: 38.5%;
     margin-top: 5px;
 }
 #email{
-    width: 42.2%;
+    width: 38.5%;
     margin-top: 5px;
 }
 #escola{
-    width: 85.35%;
+    width: 78.5%;
     margin-top: 5px;
 }
 #curso{
-    width: 42.5%;
+    width: 40%;
     margin-top: 5px;
 }
 #turma{
-    width: 44.4%;
+    width: 40%;
     margin-top: 5px;
 }
 #chamada{
-    width: 36%;
+    width: 31%;
     margin-top: 5px;
 }
 #matrícula{
-    width: 37.2%;
+    width: 31%;
     margin-top: px;
 }
 #redes{
-    width: 88%;
-    margin-top: px;
+    width: 81%;
+    margin-top: 5px;
 }
 
 #h{
@@ -59,24 +59,30 @@
     width: 5%;
 }
 #horario{
-    border-radius:10px;
-    background-color: rgb(172, 170, 170);
     width: 95%;
+    border-radius: 10px;
 }
-
 #dia{
-    border-radius:10px;
     width: 95%;
+    border-radius: 10px;
+}
+#nomes{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border-radius: 10px;
 }
 #prioridades{
-    width: 95%;
-    height: 200px;
-    margin-left: 20px;
+    width: 90%;
+    margin-left: 50px;
+    height: 150px;
 }
-p{
-    background-color: black;
-    color: white;
-    border-radius: 15px;
-    width: 30%;
-    margin-left: 350px;
+#fieldset{
+    width: 55%;
+    background-color: rgb(243, 210, 250);
+}
+#body{
+    background-color: rgb(229, 184, 243);
+}
+#asterisco{
+    color: rgb(223, 219, 0);
 }

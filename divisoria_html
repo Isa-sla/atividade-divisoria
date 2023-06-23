@@ -5,14 +5,18 @@
         <title> Exercício divisória </title>
         <link rel="stylesheet" media="all" href="exercício.css"/>
     </head>
-    <body>
-        <p align="center">
+    <body id="body">
+        <table id="nomes" align="center">
+        <th>
             <strong>
-                *** DADOS PESSOAIS ***
+                <asterisco id="asterisco"> *** </asterisco>  DADOS PESSOAIS <asterisco id="asterisco"> *** </asterisco>
             </strong>
-        </p>
+        </th>
+        </table>
+        <br/>
         <form >
-            <fieldset>
+            <div align="center">
+            <fieldset id="fieldset" align="left">
             <label for="nome"> Nome: </label>
             <input type="text" name="nome" id="nome" />
             <br/>
@@ -40,11 +44,16 @@
             <label for="redes"> Redes Sociais: </label>
             <input type="text" name="redes" id="redes"/>
             </fieldset>
-            <p align="center">
+            </div>
+            <br/>
+            <table id="nomes"align="center">
+            <th >
                 <strong >
-                *** HORÁRIO DE AULAS ***
+                    <asterisco id="asterisco">***</asterisco> HORÁRIO DE AULAS <asterisco id="asterisco">***</asterisco>
                   </strong>
-            </p>
+                </th>
+            </table>
+            <br/>
             <table>
                 <tr> 
                     <th id="h">
@@ -281,12 +290,15 @@
                     </td>
                 </tr>
             </table>
-            <p align="center">
+            <table id="nomes"align="center">
+            <th>
                 <strong >
-                 *** PRIORIDADES ***
+                    <asterisco id="asterisco">***</asterisco> PRIORIDADES <asterisco id="asterisco">***</asterisco>
                 </strong>
-            </p>
-                <input type="textarea" name="prioridades" id="prioridades"/>
+            </th>
+            </table>
+            <br/>
+            <input type="textarea" name="prioridades" id="prioridades" />
         </form>
     </body>
 </html>
